@@ -26,3 +26,6 @@ htmlcov/
 # IDE Specific (optional, e.g., VS Code or PyCharm)
 .vscode/
 .idea/
+
+.gitignore
+
